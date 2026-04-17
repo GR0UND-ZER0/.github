@@ -1,13 +1,17 @@
 # Ground Zero
 
-Start from zero. Build something real.
+Start from zero. Build with purpose.
 
-Ground Zero is a hands-on community where ideas become working projects through steady iteration.
+Ground Zero is a practical community focused on shipping real work through steady iteration.
 
-## Right now
-- Setting up a clean repository base
-- Publishing practical guides and templates
-- Preparing open projects for collaboration
+## Featured repositories
+- [projects](https://github.com/GR0UND-ZER0/projects) - Active initiatives and shipped work
+- [labs](https://github.com/GR0UND-ZER0/labs) - Fast experiments and prototypes
+- [resources](https://github.com/GR0UND-ZER0/resources) - Guides, templates, and references
 
-## Follow along
-New repositories and updates will be published here soon.
+## Current focus
+- Build a clean open project pipeline
+- Publish reusable templates and docs
+- Keep releases small, frequent, and useful
+
+Follow the organization for new repositories and updates.
