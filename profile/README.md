@@ -14,4 +14,19 @@ Ground Zero is a practical community focused on shipping real work through stead
 - Publish reusable templates and docs
 - Keep releases small, frequent, and useful
 
-Follow the organization for new repositories and updates.
+## Community Invite
+
+Hey, I’m inviting you to Ground Zero 
+A tech community built for learning, collaboration, and real-world skill building with others who are improving too. 
+
+Rules:
+• Respect everyone in the community
+• Keep everything tech-related
+• No spam, ads, or scams
+• Share useful code, tools, or ideas
+• Help others when you can
+• Stay consistent and active
+
+Build smarter together 
+
+Join: https://m.me/j/AbbxfofRAX3TyND-/?send_source=gc%3Acopy_invite_link_c
