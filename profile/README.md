@@ -1,32 +1,23 @@
 # Ground Zero
 
-Start from zero. Build with purpose.
+Build with purpose. Ship consistently.
 
-Ground Zero is a practical community focused on shipping real work through steady iteration.
+Ground Zero is a practical tech organization focused on small, useful releases and steady iteration.
 
-## Featured repositories
+## Repositories
 - [projects](https://github.com/GR0UND-ZER0/projects) - Active initiatives and shipped work
-- [labs](https://github.com/GR0UND-ZER0/labs) - Fast experiments and prototypes
+- [labs](https://github.com/GR0UND-ZER0/labs) - Experiments and technical prototypes
 - [resources](https://github.com/GR0UND-ZER0/resources) - Guides, templates, and references
 
-## Current focus
-- Build a clean open project pipeline
-- Publish reusable templates and docs
-- Keep releases small, frequent, and useful
+## Standards
+- [Contributing Guide](https://github.com/GR0UND-ZER0/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/GR0UND-ZER0/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/GR0UND-ZER0/.github/blob/main/SECURITY.md)
+- [Support](https://github.com/GR0UND-ZER0/.github/blob/main/SUPPORT.md)
 
-## Community Invite
+## Community
+- Respect everyone
+- Keep discussions tech-focused
+- No spam, ads, or scams
 
-Hey, I’m inviting you to Ground Zero 
-A tech community built for learning, collaboration, and real-world skill building with others who are improving too. 
-
-Rules:
-• Respect everyone in the community
-• Keep everything tech-related
-• No spam, ads, or scams
-• Share useful code, tools, or ideas
-• Help others when you can
-• Stay consistent and active
-
-Build smarter together 
-
-Join: https://m.me/j/AbbxfofRAX3TyND-/?send_source=gc%3Acopy_invite_link_c
+[Join the Ground Zero community](https://m.me/j/AbbxfofRAX3TyND-/?send_source=gc%3Acopy_invite_link_c)

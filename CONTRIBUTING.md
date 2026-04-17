@@ -24,5 +24,5 @@ Thanks for contributing.
 
 Build smarter together.
 
-Join community chat: https://m.me/j/AbbxfofRAX3TyND-/?send_source=gc%3Acopy_invite_link_c
+Join community chat: [Ground Zero Community](https://m.me/j/AbbxfofRAX3TyND-/?send_source=gc%3Acopy_invite_link_c)
 
